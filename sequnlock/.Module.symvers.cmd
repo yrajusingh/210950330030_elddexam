@@ -1,0 +1,1 @@
+cmd_/home/coderaju/Desktop/device-drivers/sequnlock/Module.symvers := sed 's/ko$$/o/' /home/coderaju/Desktop/device-drivers/sequnlock/modules.order | scripts/mod/modpost -m -a   -o /home/coderaju/Desktop/device-drivers/sequnlock/Module.symvers -e -i Module.symvers   -T -

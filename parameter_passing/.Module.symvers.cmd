@@ -1,0 +1,1 @@
+cmd_/home/pi/ELDD/native-compiler/parameter_passing/Module.symvers := sed 's/ko$$/o/' /home/pi/ELDD/native-compiler/parameter_passing/modules.order | scripts/mod/modpost -m -a   -o /home/pi/ELDD/native-compiler/parameter_passing/Module.symvers -e -i Module.symvers   -T -

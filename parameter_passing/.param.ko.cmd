@@ -1,0 +1,1 @@
+cmd_/home/pi/ELDD/native-compiler/parameter_passing/param.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/pi/ELDD/native-compiler/parameter_passing/param.ko /home/pi/ELDD/native-compiler/parameter_passing/param.o /home/pi/ELDD/native-compiler/parameter_passing/param.mod.o;  true

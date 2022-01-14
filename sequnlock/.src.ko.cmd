@@ -1,0 +1,1 @@
+cmd_/home/coderaju/Desktop/device-drivers/sequnlock/src.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/coderaju/Desktop/device-drivers/sequnlock/src.ko /home/coderaju/Desktop/device-drivers/sequnlock/src.o /home/coderaju/Desktop/device-drivers/sequnlock/src.mod.o;  true
